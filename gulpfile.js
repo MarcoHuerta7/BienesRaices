@@ -85,11 +85,14 @@ function imgAvif()
 }
  
  
-function imgSvg()
+function imgSvg(done)
 {
-    return src(path.svg)
-        .pipe(svg())
-        .pipe(dest('build/img'));
+    src('src/img/**/*.svg')
+        // .pipe( svg() )  // Al eliminar el procesamiento de los svg, los copia simplemente
+                            // en la carpeta destino
+        .pipe( dest('build/img') );
+
+        done();
 }
  
  
