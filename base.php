@@ -15,17 +15,17 @@
                     <img src="build/img/logo.svg" alt="Logotipo de Bienes Raices">
                 </a>
 
-                < <div class="mobile-menu">
+                <div class="mobile-menu">
                     <img src="build/img/barras.svg" alt="icono de menu responsive">
                 </div>
 
                 <div class="derecha">
                     <img class="dark-mode-boton" src="build/img/dark-mode.svg" alt="">
                     <nav class="navegacion">
-                        <a href="nosotros.html">Nosotros</a>
-                        <a href="anuncios.html">Anuncios</a>
-                        <a href="blog.html">Blog</a>
-                        <a href="contacto.html">Contacto</a>
+                        <a href="nosotros.php">Nosotros</a>
+                        <a href="anuncios.php">Anuncios</a>
+                        <a href="blog.php">Blog</a>
+                        <a href="contacto.php">Contacto</a>
                     </nav>
                 </div>
 
@@ -40,10 +40,10 @@
     <footer class="footer seccion">
         <div class="contenedor contenedor-footer">
             <nav class="navegacion">
-                <a href="nosotros.html">Nosotros</a>
-                <a href="anuncios.html">Anuncios</a>
-                <a href="blog.html">Blog</a>
-                <a href="contacto.html">Contacto</a>
+                <a href="nosotros.php">Nosotros</a>
+                <a href="anuncios.php">Anuncios</a>
+                <a href="blog.php">Blog</a>
+                <a href="contacto.php">Contacto</a>
             </nav>
         </div>
         <p class="copyright">Todos los derechos reservados 2022 &copy;</p>

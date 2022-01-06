@@ -266,7 +266,7 @@
     "has-values": "^1.0.0",
     "hosted-git-info": "^2.8.9",
     "http-cache-semantics": "^3.8.1",
-    "html-comment-regex": "^1.1.2",
+    "php-comment-regex": "^1.1.2",
     "human-signals": "^2.1.0",
     "ieee754": "^1.2.1",
     "imagemin": "^7.0.1",
